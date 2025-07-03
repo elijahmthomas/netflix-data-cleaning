@@ -1,6 +1,6 @@
 # Netflix Data Analysis Dashboard
 
-This project explores and transforms Netflix’s catalog data (up to 2021) using Python (`pandas`, `rapidfuzz`) for cleaning and Power BI for visualization.
+This project explores and transforms Netflix’s catalog data (up to 2021) using Python (`pandas`, `rapidfuzz`) for cleaning and Microsoft Power BI for visualization.
 
 ---
 
