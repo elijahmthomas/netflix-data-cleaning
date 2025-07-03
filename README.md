@@ -43,6 +43,6 @@ Cleaned Netflix data to focus on movies, fixed messy values like countries and g
 
 Hi, I'm Elijah Thomas — a data analyst with a background in finance and a passion for turning messy data into meaningful insights. I created this project to showcase my skills in Python data wrangling/cleaning and Power BI dashboard design.
 
-I'm actively looking for data-focused roles where I can help teams make smarter decisions through clean, visual analytics.
+I'm actively seeking roles in data analytics, software engineering, or finance, where I can apply clean analytics and technical problem-solving to drive better decisions.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/elijahmthomas) or email me directly at [emthomas519@gmail.com]
